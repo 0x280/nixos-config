@@ -4,7 +4,7 @@
   inputs,
   ...
 }: {
-  networking.hostname = "liila";
+  networking.hostName = "lila";
 
   networking.usePredictableInterfaceNames = false;
 
